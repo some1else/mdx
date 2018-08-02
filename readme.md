@@ -128,7 +128,7 @@ Similarly to JSX, components can be rendered after an `import`:
 ```jsx
 import Graph from './components/graph'
 
-## Here's a graph
+## Look at this graph
 
 <Graph />
 ```
